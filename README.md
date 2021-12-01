@@ -1,4 +1,4 @@
-*At this stage, the script would only run for Unix systems*
+*The script is compatible with every OS*
 
 ## How do I run the script?
 **Run the script via the command line with the following syntax**
