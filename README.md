@@ -7,4 +7,3 @@
 #### clarifications;
 - `PATH` **needs** to be replaced with the required directory to operate the script on
 - `PATH` *can* be replaced `'.'` if the current directory is the required one.
-- `python` can be replaced with `python3`
