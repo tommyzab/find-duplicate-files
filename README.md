@@ -7,3 +7,6 @@
 #### clarifications;
 - `PATH` **needs** to be replaced with the required directory to operate the script on
 - `PATH` *can* be replaced with `.` if the current directory is the required one.
+
+#### extra modules:
+- `tqdm` - presents the running programs' progress
