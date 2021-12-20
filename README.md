@@ -9,4 +9,4 @@
 - `PATH` *can* be replaced with `.` if the current directory is the required one.
 
 #### extra modules:
-- `tqdm` - presents the running programs' progress
+- `tqdm` - presents the progress (not necessary for execution(could be edited out), great for enormous directories)
